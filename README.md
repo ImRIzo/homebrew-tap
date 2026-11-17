@@ -1,2 +1,1 @@
-# homebrew-tap
-my homebrew repo 
+ImRIzo/tap
